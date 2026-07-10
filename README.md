@@ -14,34 +14,6 @@ This repository documents my journey of learning Python by coding every day for 
 - 📚 Practice Data Structures & Algorithms
 - 🤖 Prepare for AI/ML development
 
----
-
-## 📂 Repository Structure
-
-```
-100daysofpython/
-│
-├── Day01/
-│   └── day1.py
-├── Day02/
-│   └── day2.py
-├── Day03/
-│   └── day3.py
-│
-└── README.md
-```
-
----
-
-## 📈 Progress
-
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 1 | Hello World & Python Setup | ✅ Completed |
-| Day 2 | Coming Soon | ⏳ |
-| Day 3 | Coming Soon | ⏳ |
-| ... | ... | ... |
-| Day 100 | Final Project | ⏳ |
 
 ---
 
